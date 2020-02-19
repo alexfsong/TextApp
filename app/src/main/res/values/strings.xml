@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TextApp</string>
+    <string name="button">Title</string>
+    <string name="name_hint">enter name</string>
+    <string-array 
+        name="messages">
+        <item>Come to the dark side, we have cookies</item>
+        <item>Be the change you want to see in the world</item>
+        <item>Mr. Tra is very happy</item>
+        <item>The Lion does not concern himself with the opinions of the sheep</item>
+        <item>There is only one thing we say to death, not today</item>
+        <item>Chaos isn\'t a pit, Chaos is a ladder</item>
+    </string-array>
+</resources>
